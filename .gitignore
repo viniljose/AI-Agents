@@ -174,3 +174,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+AutoGenWithOllama/21june2025-1/
